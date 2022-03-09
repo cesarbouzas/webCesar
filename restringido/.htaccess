@@ -1,0 +1,5 @@
+AuthName "webCesar"
+AuthType Basic
+AuthUserFile /etc/apache2/users/webcesar.pass
+Require valid-user
+
